@@ -55,6 +55,10 @@ nav {
   font-size: 24px;
 }
 
+.list-links li a.active {
+  text-decoration: underline;
+}
+
 /* LAYOUT TABLET */
 @media screen and (min-width: 768px) {
   .navegation-menu {
